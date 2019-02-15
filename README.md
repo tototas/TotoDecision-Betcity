@@ -37,6 +37,7 @@
 ![screenshot_14](https://user-images.githubusercontent.com/47591655/52857125-056dd080-3148-11e9-82dc-ff834398cf08.png)
 
 
+
 3. Введите коэффициент минимальной вероятности (от 0.0 до 0.35), нажмите `ENTER`
 
 ![screenshot_1](https://user-images.githubusercontent.com/47591655/52857262-71e8cf80-3148-11e9-8434-9ea6bbb92b7a.png)
